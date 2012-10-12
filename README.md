@@ -8,6 +8,12 @@ TODO:
 3. Agregar soporte GeoDjango para las ciudades y departamentos.
 4. Conectar estadisticas.
 
+REQUIERE:
+- geodjango, DATABASES.ENGINE: 'django.contrib.gis.db.backends.postgis'
+- django_extensions
+
 Autor:
 
 @panchicore
+
+
